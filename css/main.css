@@ -1,0 +1,63 @@
+body{
+  padding-top: 50px;
+}
+
+#headerWrapper{
+  position:relative;
+  padding:0;
+  margin:0;
+  overflow:hidden;
+  height:700px;
+  background-image: url(../images/headerlogo/glass1.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 700px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+
+#partial-headerWrapper{
+  position:relative;
+  padding:0;
+  margin:0;
+  overflow:hidden;
+  height:250px;
+  background-image: url(../images/headerlogo/glass3.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 550px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+
+.img-thumb{
+  width:400px;
+  height:200px;
+}
+#footer{
+  margin-top:50px;
+}
+img.details{
+  width:90%;
+  margin:15px auto;
+}
+.table-auto{
+  width:auto;
+  margin: 0 auto;
+}
+#add-product-btn{
+  margin-top: -35px;
+}
+#login-form{
+  width:50%;
+  height: 60%;
+  border:2px solid #000;
+  border-radius: 15px;
+  box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.6);
+  margin: 7% auto;
+  padding: 15px;
+  background-color: #fff;
+}
+.totals-table-header th{
+  text-align: center;
+}
