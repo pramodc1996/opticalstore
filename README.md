@@ -1,6 +1,6 @@
 # opticalstore
 this is my mini college project to bring an optical store online 
-this project lacks payment options  
+ 
 
 ![screenshot 104](https://user-images.githubusercontent.com/20502302/28603753-b47c0748-71e3-11e7-8b6f-6ce65af3150d.png)
 
